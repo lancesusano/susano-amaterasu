@@ -1,0 +1,37 @@
+body {
+	background-image:url("background.jpg")
+}
+table.format {
+	background-color:#333330;
+	border-color: white 
+}
+h1 { 
+	text-align: center;
+	color: #E0C077;
+	size: 14 px;
+	font-family: Times New Roman
+}
+p {
+	text-align: center;
+	color: #DDDDCE;
+	size: 12 px
+}
+p.list {
+	text-align: left;
+	color: #DDDDCE;
+	size: 12 px;
+}
+ol {
+	text-align: left;
+	color: #DDDDCE;
+	size: 12 px;
+}
+p.justify {
+	text-align: justify;
+	color: #DDDDCE;
+	size: 12 px;
+}
+
+	
+	
+	
